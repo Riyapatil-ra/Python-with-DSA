@@ -14,7 +14,7 @@ elif b>a and b>c:
 else:
     print("c is greatest among all three")
 
-Loops
+# Loops
 list1=[10,20,'riya',10.2]
 for i in list1:
     print(i)
